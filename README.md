@@ -1,5 +1,3 @@
-# IMDb-Analysis-Hypothesis-PowerBi
-
 # IMDb Movie Analytics & Hypothesis Testing Dashboard
 
 ## Project Overview
@@ -103,6 +101,8 @@ There is no statistically significant difference in IMDb ratings based on direct
 
 ## 📈 Power BI Dashboard
 
+https://github.com/ajith-sk/IMDb-Analysis-Hypothesis-PowerBi/blob/main/Screenshots/Project2_Dashboard_Snip.jpg
+
 A one-page interactive dashboard was created featuring:
 
 KPI Cards
@@ -133,6 +133,6 @@ Male and female directors receive similar average ratings
 
 Dataset contains significantly more male-directed movies
 
-✅ Final Conclusion
+## ✅ Final Conclusion
 
 Analysis reveals that neither production budget nor director gender significantly influences IMDb ratings. Audience reception appears to be driven more by storytelling and execution than by financial investment or demographic attributes.
