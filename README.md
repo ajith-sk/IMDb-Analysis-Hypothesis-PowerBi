@@ -101,7 +101,7 @@ There is no statistically significant difference in IMDb ratings based on direct
 
 ## 📈 Power BI Dashboard
 
-https://github.com/ajith-sk/IMDb-Analysis-Hypothesis-PowerBi/blob/main/Screenshots/Project2_Dashboard_Snip.jpg
+![IMDb Movie Analytics](https://github.com/ajith-sk/IMDb-Analysis-Hypothesis-PowerBi/blob/main/Screenshots/Project2_Dashboard_Snip.jpg)
 
 A one-page interactive dashboard was created featuring:
 
